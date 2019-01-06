@@ -7,7 +7,8 @@
 //
 
 import UIKit
-// 주석 추가 
+// 주석 추가
+// 더 적었어요 ! 
 class ListViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
